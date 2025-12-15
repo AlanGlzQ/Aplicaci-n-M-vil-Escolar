@@ -58,4 +58,4 @@ Permite iniciar sesión con código y NIP, consultar información académica y a
 
 Puedes ver una demostración completa de la aplicación aquí:
 
- [Ver demo en Google Drive](/campus_thumbnail.png)](https://drive.google.com/file/d/1BUcxZBWQS5o8fPSMrI4n87ukulmyjMwg/view?usp=sharing)
+ [![Demo CampusCucei](campus_thumbnail.png)](https://drive.google.com/file/d/1BUcxZBWQS5o8fPSMrI4n87ukulmyjMwg/view?usp=sharing)
