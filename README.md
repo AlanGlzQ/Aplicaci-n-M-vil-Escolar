@@ -8,7 +8,7 @@ Permite iniciar sesión con código y NIP, consultar información académica y a
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Pantalla de **login** con código y NIP.
 - Uso de un **backend externo** para autenticación y datos académicos.
@@ -26,7 +26,7 @@ Permite iniciar sesión con código y NIP, consultar información académica y a
 
 ---
 
-## 🧱 Stack tecnológico
+##  Stack tecnológico
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
@@ -36,7 +36,7 @@ Permite iniciar sesión con código y NIP, consultar información académica y a
 
 ---
 
-## 📦 Instalación y ejecución
+##  Instalación y ejecución
 
 1. Clona este repositorio:
 
@@ -53,3 +53,9 @@ Permite iniciar sesión con código y NIP, consultar información académica y a
   npx expo start
 
 4. Escanea el QR con la app de Expo Go en tu teléfono, o ejecútalo en un emulador.
+
+##  Demo en video
+
+Puedes ver una demostración completa de la aplicación aquí:
+
+ [Ver demo en Google Drive](https://drive.google.com/file/d/1BUcxZBWQS5o8fPSMrI4n87ukulmyjMwg/view?usp=sharing)
