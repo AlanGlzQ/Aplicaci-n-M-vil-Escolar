@@ -35,6 +35,21 @@ Permite iniciar sesión con código y NIP, consultar información académica y a
 - React Navigation
 
 ---
+## Estructura del proyecto
+
+Actualmente el proyecto está organizado en pantallas principales:
+
+- `App.js`: punto de entrada de la app.
+- `Loggin.js`: pantalla de inicio de sesión.
+- `Menu.js`: menú principal / navegación.
+- `KardexAlumno.js`: consulta de información académica.
+- `Directorio.js`: directorio embebido en WebView.
+- `Video.js`: pantalla para videos informativos.
+- `MapaLite.js`: mapa interactivo del campus.
+- `PerfilAlumno.js`: información del perfil del alumno.
+- `Principal.js`: pantalla principal/inicial tras el login.
+- `config.js`: configuración de URLs/endpoints externos.
+- `mapa_2024.jpg`: recurso de mapa usado en la pantalla de mapa.
 
 ##  Instalación y ejecución
 
