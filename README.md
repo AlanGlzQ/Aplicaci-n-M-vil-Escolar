@@ -41,8 +41,8 @@ Permite iniciar sesión con código y NIP, consultar información académica y a
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/<TU_USUARIO>/<TU_REPO>.git
-   cd <TU_REPO>
+   git clone https://github.com/AlanGlzQ/Aplicaci-n-M-vil-Escolar.git
+   cd Aplicaci-n-M-vil-Escolar
 
 2. Instala dependencias
   npm install
@@ -59,3 +59,11 @@ Permite iniciar sesión con código y NIP, consultar información académica y a
 Puedes ver una demostración completa de la aplicación aquí:
 
  [![Demo CampusCucei](campus_thumbnail.png)](https://drive.google.com/file/d/1BUcxZBWQS5o8fPSMrI4n87ukulmyjMwg/view?usp=sharing)
+
+## Estado del proyecto
+
+Este proyecto fue desarrollado como proyecto escolar/personal y no está pensado
+como aplicación de producción. El backend y algunos recursos externos pueden cambiar
+o dejar de estar disponibles con el tiempo.
+
+El código del frontend (esta app) es de mi autoría.
