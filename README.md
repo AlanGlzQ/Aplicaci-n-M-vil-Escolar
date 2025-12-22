@@ -56,8 +56,8 @@ Actualmente el proyecto está organizado en pantallas principales:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/AlanGlzQ/Aplicaci-n-M-vil-Escolar.git
-   cd Aplicaci-n-M-vil-Escolar
+   git clone https://github.com/AlanGlzQ/campus-cucei-app.git
+   cd campus-cucei-app
 
 2. Instala dependencias
   npm install
